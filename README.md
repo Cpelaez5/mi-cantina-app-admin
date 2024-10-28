@@ -1,4 +1,4 @@
-# flutter_application_1
+# Mi Cantina App Administrator for Desktop
 
 A new Flutter project.
 
